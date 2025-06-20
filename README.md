@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="220" src="https://i.postimg.cc/XvdvXTkS/photo-2024-12-27-11-46-15.jpg" alt="Downloader Zone Logo">
+  <img width="220" src="https://i.postimg.cc/XvdvXTkS/photo-2024-12-27-11-46-15.jpg" alt="Files Sphere Logo">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://github.com/DownloaderZone/WZML-X"><img src="https://img.shields.io/github/stars/DownloaderZone/WZML-X?style=flat-square&color=yellow&logo=github"/></a>
   <a href="https://github.com/DownloaderZone/WZML-X"><img src="https://img.shields.io/github/forks/DownloaderZone/WZML-X?style=flat-square&color=blue&logo=github"/></a>
   <a href="https://t.me/DOWNLOADERZONEUPDATES"><img src="https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&logo=telegram"/></a>
-  <a href="https://t.me/DZONEDISCUSSION"><img src="https://img.shields.io/badge/Support-Group-blueviolet?style=flat-square&logo=telegram"/></a>
+  <a href="https://t.me/Files SphereDISCUSSION"><img src="https://img.shields.io/badge/Support-Group-blueviolet?style=flat-square&logo=telegram"/></a>
   <a href="https://github.com/DownloaderZone/WZML-X/blob/main/LICENSE"><img src="https://img.shields.io/github/license/DownloaderZone/WZML-X?style=flat-square&color=success"/></a>
 </p>
 
@@ -34,15 +34,15 @@
 - Multi-cloud: RClone integration for any supported cloud (GDrive, OneDrive, Dropbox, etc)
 - Multi-bot & Multi-user: Designed for groups, channels, and private use
 - Token/Multi-Shortener Support: Support for token based usage and multi-shortener services
-- **Actively Maintained**: By Downloader Zone & Team.
+- **Actively Maintained**: By Files Sphere & Team.
 </details>
 
 ---
 
 ## 🖥️ Live Demo & Public Mirror/Leech Group
 
-- Channel: [DOWNLOADER ZONE UPDATES](https://t.me/DOWNLOADERZONEUPDATES)
-- Group: [DOWNLOADER ZONE FREE MIRROR LEECH GROUP](https://t.me/downloaderzonefreemirrorleech)
+- Channel: [Files Sphere UPDATES](https://t.me/DOWNLOADERZONEUPDATES)
+- Group: [Files Sphere FREE MIRROR LEECH GROUP](https://t.me/downloaderzonefreemirrorleech)
 
 ---
 
@@ -140,7 +140,7 @@ restartses - Restart User Sessions
 ---
 
 ## 🏷️ Credits & Authors
-- **Downloader Zone** ([Telegram](https://t.me/DOWNLOADERZONEUPDATES), [GitHub](https://github.com/DOWNLOADER-ZONE))
+- **Files Sphere** ([Telegram](https://t.me/DOWNLOADERZONEUPDATES), [GitHub](https://github.com/DOWNLOADER-ZONE))
 - **BeastBots Team** ([Telegram](https://t.me/MirrorBeast), [GitHub](https://github.com/BeastBots))
 - Base Repo is [WZML-X](https://github.com/SilentDemonSD/WZML-X)
 
@@ -153,6 +153,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  <b>Made with ❤️ by Downloader Zone</b>
+  <b>Made with ❤️ by Files Sphere</b>
 </p>
 

@@ -31,7 +31,7 @@ sabnzbd_client = SabnzbdClient(
 )
 SERVICES = {
     "nzb": {"url": "http://localhost:8070/"},
-    "qbit": {"url": "http://localhost:8090", "password": "dzone"},
+    "qbit": {"url": "http://localhost:8090", "password": "Files Sphere"},
 }
 
 

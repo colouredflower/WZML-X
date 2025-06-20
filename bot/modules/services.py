@@ -31,7 +31,7 @@ async def start(_, message):
     userid = message.from_user.id
     lang = Language()
     buttons = ButtonMaker()
-    buttons.url_button(lang.START_BUTTON1, "https://t.me/DownloaderZoneGateway")
+    buttons.url_button(lang.START_BUTTON1, "https://t.me/files_sphere")
     buttons.url_button(lang.START_BUTTON2, "https://t.me/DOWNLOADERZONEUPDATES")
     reply_markup = buttons.build_menu(2)
 

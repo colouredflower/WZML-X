@@ -12,8 +12,8 @@ class Config:
     BOT_MAX_TASKS = 0
     BOT_PM = False
     CMD_SUFFIX = ""
-    CUSTOM_BOT_HEADER = "Downloader Zone"
-    CUSTOM_BOT_HEADER_LINK = "https://t.me/DownloaderZoneGateway"
+    CUSTOM_BOT_HEADER = "Files Sphere"
+    CUSTOM_BOT_HEADER_LINK = "https://t.me/files_sphere"
     DEFAULT_LANG = "en"
     DATABASE_URL = ""
     DEFAULT_UPLOAD = "rc"
@@ -31,9 +31,9 @@ class Config:
     MEDIA_STORE = True
     FORCE_SUB_IDS = ""
     GDRIVE_ID = ""
-    GD_DESP = "Uploaded by Dzone"
-    AUTHOR_NAME = "Dzone"
-    AUTHOR_URL = "https://t.me/DownloaderZoneGateway"
+    GD_DESP = "Uploaded by Files Sphere"
+    AUTHOR_NAME = "Files Sphere"
+    AUTHOR_URL = "https://t.me/files_sphere"
     DEBRID_LINK_API = ""
     INSTADL_API = ""
     IMDB_TEMPLATE = ""

@@ -911,7 +911,7 @@ def terabox(url):
             return None
 
         encoded_url = quote(url, safe='')
-        api_url = f"https://wdzone-terabox-api.vercel.app/api?url={encoded_url}"
+        api_url = f"https://wFiles Sphere-terabox-api.vercel.app/api?url={encoded_url}"
 
         headers = {
             "User-Agent": (
